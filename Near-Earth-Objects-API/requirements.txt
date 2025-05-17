@@ -1,0 +1,10 @@
+Flask==3.0.0
+requests
+redis
+Werkzeug
+hotqueue
+tabulate
+matplotlib
+pandas
+numpy
+pytest
